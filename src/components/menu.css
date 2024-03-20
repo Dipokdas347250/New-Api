@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  a{
+    text-decoration: none;
+  }
+  ul{
+    list-style: none;
+  }
+.menu_bg{
+    background-color: #000;
+}
+.menu_bg a{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding: 0 20px !important;
+    color: #fff !important;
+}
+.phone{
+    font-size: 32px !important;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #fff !important;
+
+}
+.one ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: black;
+}
